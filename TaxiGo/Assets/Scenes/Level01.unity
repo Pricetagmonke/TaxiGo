@@ -806,7 +806,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   motorForce: 1000
   breakForce: 3000
-  maxSteerAngle: 30
+  maxSteerAngle: 70
   frontLeftWheelCollider: {fileID: 1681726520}
   frontRightWheelCollider: {fileID: 366100581}
   rearLeftWheelCollider: {fileID: 1449378687}
@@ -2489,13 +2489,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3950271601451526958}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0.99389184, z: -0, w: -0.110358536}
   m_LocalPosition: {x: -5.1406074, y: -0.27879682, z: 2.0142853}
   m_LocalScale: {x: 55.809055, y: 55.809048, z: 12.849476}
   m_Children: []
   m_Father: {fileID: 1304749571}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -192.672, z: 0}
 --- !u!4 &1486141814680204448
 Transform:
   m_ObjectHideFlags: 0
